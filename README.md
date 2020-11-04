@@ -1,7 +1,7 @@
 # SSD Challenges
-## *challenges*
-This folder will contain challenges we published
 
-## *solutions*
-This folder will contain the solutions for the challenges we published
+## Binary-2020-09
+This was part of our September 2020 challenge
 
+## Binary-2020-11
+This was part of our November 2020 challenge
