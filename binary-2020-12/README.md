@@ -1,6 +1,6 @@
 # Welcome to our December - 2020 challenge
 This challenge comes as a binary running inside a Docker with certain vulnerabilities in it!
-First one to solve it, email us the solution to contact@ssd-disclosure.com for a chance to win a custom gift box.
+First one to solve it, email us the solution to contact@ssd-disclosure.com for a chance to a 100$ Amazon gift card.
 
 Solutions should be provided in:
 1. python2 or python3 (preferred) form
