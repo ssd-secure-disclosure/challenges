@@ -8,7 +8,7 @@ Solutions should be provided in:
 3. If you are not using existing modules, provide a `requirements.txt` file
 
 ## Notes on files under challenge folder
-While the `flag`, `prime_checker` (hash: 894b94851180f62992728605e53580e6c4ceae4b16ac9ed952918faab0b5d462), `launch.sh` are here to help you understand the challenge - they should not be modifying in any way in order to win the challenge - we will be running the original binary in our environment.
+While the `flag`, `checker` (hash: 894b94851180f62992728605e53580e6c4ceae4b16ac9ed952918faab0b5d462), `launch.sh` are here to help you understand the challenge - they should not be modifying in any way in order to win the challenge - we will be running the original binary in our environment.
 
 
 ## Notes on setting on the ENV for the challenge
