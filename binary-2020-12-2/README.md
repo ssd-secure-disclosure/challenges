@@ -8,7 +8,7 @@ Solutions should be provided in:
 3. If you are not using existing modules, provide a `requirements.txt` file
 
 ## Notes on files under challenge folder
-While the `flag`, `cobra_kai` (hash: ad7d8b289a56764bd96d3f52056b23662dbd5c41602482af8d94903504912d86), `launch.sh` are here to help you understand the challenge - they should not be modifying in any way in order to win the challenge - we will be running the original binary in our environment.
+While the `flag`, `cobra_kai` (hash: 872dad296686b8a13bd09947e6c2190c8fd0433b373ed747071f02c252f36741), `launch.sh` are here to help you understand the challenge - they should not be modifying in any way in order to win the challenge - we will be running the original binary in our environment.
 
 
 ## Notes on setting on the ENV for the challenge
