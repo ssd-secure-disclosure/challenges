@@ -1,0 +1,44 @@
+<html>
+<head>
+<style>
+* {
+    font-family: 'Helvetica', sans-sarif;
+}
+
+.header {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: red;
+}
+</style>
+</head>
+<body>
+The frame will now start violating the heavy ad intervention rules, please hold...
+<p class="header">DO NOT CLICK THIS FRAME!</p>
+<small>Clicking this frame will disable heavy ad intervention on it</small>
+
+<br/>
+<p>
+To ensure this is an ad:
+<ol>
+<li>Open DevTools (Ctrl + Shift + I)</li>
+<li>Cutsomize and control DevTools (Three vertical dots) -> More tools -> Rendering</li>
+<li>Enable `Highlight ad frames`</li>
+</ol>
+
+Verify that this frame is then colored red to ensure it is detected as an ad-frame by Chrome.
+</p>
+<script>
+// Your heavy ad intervention bypass goes here:
+alert("Ad loaded - Insert your script in adunit.html");
+</script>
+
+<script defer="" type="text/javascript">
+// Loop download of a 10MB file to trigger heavy ad intervention's network limit
+function download() {
+	fetch('./big.bin').then(download);
+}
+download();
+</script>
+</body>
+</html>
