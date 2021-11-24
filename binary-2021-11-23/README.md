@@ -4,3 +4,6 @@ This challenge comes as a binary memory dump file. The challenge is to analyse t
 # Flag structure
 The flag will be structured as:
 `SSD{...}`
+
+# Solutions
+Send your solution guide and flag to contact@ssd-disclosure.com for your chance to win!
